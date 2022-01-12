@@ -1,4 +1,5 @@
-ver_firstbuild
+pre_release_ver_7.0
+pre_release_ver_7.0.2
 ver_1.0
 ver_2.0
 ver_3.0
@@ -9,6 +10,7 @@ ver_5.2
 ver_5.3
 ver_6.0
 ver_6.1
+ver_6.10
 ver_6.2
 ver_6.3
 ver_6.4
@@ -17,5 +19,4 @@ ver_6.6
 ver_6.7
 ver_6.8
 ver_6.9
-ver_6.10
-pre_release_ver_7.0
+ver_firstbuild
