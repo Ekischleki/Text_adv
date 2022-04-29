@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-Title Text adventure installer
+Title Text Adventure installer
 ::experimental
 ::https://github.com/Ekischleki/Text_adv/raw/main/experimental/text_adventure.installer.zip
 ::https://github.com/Ekischleki/Text_adv/raw/main/text_adventure.installer.zip
