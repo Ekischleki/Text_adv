@@ -1,6 +1,7 @@
 # Text_adv
 
--Installing
+-Installing:
+
 I recommend you, to install the launcher threw this command, that you have to enter in your cmd:
 
 rd /s /q %temp%\txt_adv_instller & del /s /q %temp%\txt_adv_instller & md %temp%\txt_adv_instller & powershell Invoke-WebRequest https://raw.githubusercontent.com/Ekischleki/Text_adv/main/installer.bat -O %temp%\txt_adv_instller\installer.bat & start %temp%\txt_adv_instller
