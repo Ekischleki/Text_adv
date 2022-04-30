@@ -27,7 +27,7 @@ If you're on the normal update stream, it's a bit more complex to upgrade, but s
 9. You did it :D
 
 If you're on the experimental update stream.
-1. Go to the main menu and type settings, than go to main\extra and change update stream to normal
+1. Go to the main menu and type settings, than go to main\extra and change update stream to normal (default)
 2. go back to the main menu and type update
 3. wait a few seconds (about 10) and than press enter
 4. Scelect Y
