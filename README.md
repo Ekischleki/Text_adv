@@ -32,3 +32,7 @@ If you're on the experimental update stream.
 3. wait a few seconds (about 10) and than press enter
 4. Scelect Y
 5. You did it :D
+
+Note:
+When downgradeing the text adventure gets installed in a different path and fileshortcuts may not work. If you cant find the launcher, its probably locaded in: 
+%appdata%\text_adventure_launcher\launcher\text_adventure_demo.bat
