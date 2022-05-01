@@ -1,6 +1,6 @@
 # Text_adv
 
--Installing:
+## Installing:
 
 I recommend you, to install the launcher threw this command, that you have to enter in your cmd:
 
@@ -13,7 +13,7 @@ If you choose the "Normal" update stream, your launcher should be in the same di
 If you choose the "Experimental" update stream, a shortcut to your launcher should be on your desktop, if it is not there try looking under %appdata%\text_adventure_launcher\launcher. After that, you can delete %temp%\txt_adv_instller, you can also delete it via cmd with the command: rd /s /q %temp%\txt_adv_instller
 
 
--Upgrading/Downgrading to update stream
+##Upgrading/Downgrading to update stream
 
 If you're on the normal update stream, it's a bit more complex to upgrade, but should be doable.
 1. Go to the Main menu and type oldver.
@@ -33,7 +33,7 @@ If you're on the experimental update stream.
 4. Scelect Y
 5. You did it :D
 
-Note:
+__Note:__
 When downgradeing the text adventure gets installed in a different path and fileshortcuts may not work. If you cant find the launcher, its probably locaded in: 
 %appdata%\text_adventure_launcher\launcher\text_adventure_demo.bat
 
@@ -58,14 +58,14 @@ Criteria:
 -You can't be banned from creating storys
 
 
-Note:
+__Note:__
 
 Ekischleki always has the last word.
 
-Sending in storys:
+##Sending in storys:
 
 Send me a download link via github or sth. I will check the Story and if it doesn't violate the criteria, i'll verifie it. If it doesn't, i'll send you some stuff that you can do better and than retry.
 
-Note:
+__Note:__
 
 Uploading a virus will get you banned.
