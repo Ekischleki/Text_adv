@@ -1,6 +1,6 @@
 # Text_adv
 
-## Installing:
+## Installing
 
 I recommend you, to install the launcher threw this command, that you have to enter in your cmd:
 
@@ -59,7 +59,6 @@ Criteria:
 
 
 __Note:__
-
 Ekischleki always has the last word.
 
 ##Sending in storys:
@@ -67,5 +66,4 @@ Ekischleki always has the last word.
 Send me a download link via github or sth. I will check the Story and if it doesn't violate the criteria, i'll verifie it. If it doesn't, i'll send you some stuff that you can do better and than retry.
 
 __Note:__
-
 Uploading a virus will get you banned.
