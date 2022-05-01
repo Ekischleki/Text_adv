@@ -61,7 +61,7 @@ Criteria:
 __Note:__
 Ekischleki always has the last word.
 
-##Sending in storys:
+## Sending in storys
 
 Send me a download link via github or sth. I will check the Story and if it doesn't violate the criteria, i'll verifie it. If it doesn't, i'll send you some stuff that you can do better and than retry.
 
