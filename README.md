@@ -36,3 +36,25 @@ If you're on the experimental update stream.
 Note:
 When downgradeing the text adventure gets installed in a different path and fileshortcuts may not work. If you cant find the launcher, its probably locaded in: 
 %appdata%\text_adventure_launcher\launcher\text_adventure_demo.bat
+
+-Getting Storys verified
+
+Criteria:
+
+-Only uses batch files
+-You must be able to exit everywhere in a max 25s interval
+-You can't excise any files outside the text adventure launcher directory
+-Exiting the Story should not break the launcher
+-Launcher can't have online access (besides from updates made by the launcher)
+-The code must be clear to read
+-The story obvi can't be a virus
+-You can't be banned from creating storys
+
+Note:
+Ekischleki always has the last word.
+
+Sending in storys:
+Send me a download link via github or sth. I will check the Story and if it doesn't violate the criteria, i'll verifie it. If it doesn't, i'll send you some stuff that you can do better and than retry.
+
+Note:
+Uploading a virus will get you banned.
