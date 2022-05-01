@@ -13,7 +13,7 @@ If you choose the "Normal" update stream, your launcher should be in the same di
 If you choose the "Experimental" update stream, a shortcut to your launcher should be on your desktop, if it is not there try looking under %appdata%\text_adventure_launcher\launcher. After that, you can delete %temp%\txt_adv_instller, you can also delete it via cmd with the command: rd /s /q %temp%\txt_adv_instller
 
 
-##Upgrading/Downgrading to update stream
+## Upgrading/Downgrading to update stream
 
 If you're on the normal update stream, it's a bit more complex to upgrade, but should be doable.
 1. Go to the Main menu and type oldver.
@@ -37,7 +37,7 @@ __Note:__
 When downgradeing the text adventure gets installed in a different path and fileshortcuts may not work. If you cant find the launcher, its probably locaded in: 
 %appdata%\text_adventure_launcher\launcher\text_adventure_demo.bat
 
--Getting Storys verified
+## Getting Storys verified
 
 Criteria:
 
