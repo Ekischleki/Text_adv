@@ -69,3 +69,21 @@ Send me a download link via github or sth. I will check the Story and if it does
 
 __Note:__
 Uploading a virus will get you banned.
+
+
+## Issues
+
+__Save file issues:__
+Issues like: Lang not displaying right, Updates not downloading right...
+
+
+Try to reset the settings via the reset settings options in the settings, or go to the console via the main menu and type:
+start !game_path!\settings and delete everything in this folder exept default.bat,save_settings.bat,settings.bat
+
+
+__Text issues:__
+The English text file is incomplete, so this can happen. If you want, you can help localising Txt adv
+
+
+__Other issues:__
+If you have other issues with the text adv launcher, write me issue report and maybe send me log files and maybe a game hast (you can use the tool !game_path!\assets\hash_game_files.bat)
