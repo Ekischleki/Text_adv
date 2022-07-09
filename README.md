@@ -88,5 +88,5 @@ The English text file is incomplete, so this can happen. If you want, you can he
 
 
 __Other issues:__
-If you have other issues with the text adv launcher, write me issue report and maybe send me log files and maybe a game hast (you can use the tool !game_path!\assets\hash_game_files.bat)
+If you have other issues with the text adv launcher, write me issue report and maybe send me log files and maybe a game hash (you can use the tool !game_path!\assets\hash_game_files.bat)
 It also always helps to clean reinstall the launcher (Delete everything and reinstall !Warning! By doing that you'll lose all story progress)
